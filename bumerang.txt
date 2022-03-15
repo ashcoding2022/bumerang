@@ -8,3 +8,6 @@ Bumerang flog ein Stück,
 Aber kam nicht mehr zurück.
 Publikum — noch stundenlang —
 Wartete auf Bumerang.
+
+
+Jetzt ist die Datei geändert!
